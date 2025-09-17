@@ -1,0 +1,27 @@
+# Arquivos de Ambiente e Senhas (O MAIS IMPORTANTE)
+.env
+.env.backup
+
+# Dados do Banco de Dados Docker
+/mysql
+
+# Dependências do PHP (Laravel)
+/src/vendor
+/src/composer.lock
+
+# Dependências do Node.js (Vue/Vite)
+/src/node_modules
+/src/package-lock.json
+
+# Arquivos de Log e Cache do Laravel
+/src/storage/logs
+/src/storage/framework/sessions/*
+/src/storage/framework/cache/data/*
+/src/storage/framework/views/*
+/src/public/build
+
+# Certificados locais
+*.pem
+
+# Arquivos de Sistema Operacional
+.DS_Store
