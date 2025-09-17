@@ -2,7 +2,7 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Este repositório contém o código-fonte e os arquivos de configuração para um ambiente de desenvolvimento local completo, orquestrado com Docker e Docker Compose. O objetivo deste projeto é demonstrar como "containerizar" uma aplicação Laravel, separando o servidor web (Nginx), a aplicação (PHP) e o banco de dados (MySQL) em contêineres isolados.
+Este repositório contém uma breve explicação sobre Docker, além do código-fonte e os arquivos de configuração para um ambiente de desenvolvimento local completo, orquestrado com Docker e Docker Compose. O objetivo deste projeto é demonstrar como "containerizar" uma aplicação Laravel, separando o servidor web (Nginx), a aplicação (PHP) e o banco de dados (MySQL) em contêineres isolados.
 
 ## O que é Docker e Para Que Serve?
 
