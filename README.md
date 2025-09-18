@@ -134,3 +134,5 @@ Você deverá ver a página inicial padrão do Laravel.
     ```bash
     docker compose exec php bash
     ```
+---
+**Referência:** https://laracasts.com/series/the-docker-tutorial
